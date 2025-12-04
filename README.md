@@ -1,5 +1,5 @@
 # Image
 
-![image](./image.svg)
+![image](https://github.com/fractial/test/blob/main/image.svg)
 
-<img src="./image.svg" width="200" />
+<img src="https://github.com/fractial/test/blob/main/image.svg" width="200" />
